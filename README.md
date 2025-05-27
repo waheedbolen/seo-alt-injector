@@ -8,12 +8,12 @@ SEO Alt Injector is a client-side script that scans your web pages for images wi
 
 ## Features
 
-- 🔍 **Automatic Detection**: Identifies images missing proper alt text
-- 🤖 **AI-Powered Generation**: Creates contextually relevant, SEO-friendly alt text
-- 💾 **Smart Caching**: Stores generated alt text to reduce API calls
-- 📱 **SPA Support**: Works with Single-Page Applications and dynamic content
-- 🔄 **Robust Matching**: Uses advanced fingerprinting to reliably match images
-- 🚀 **Performance Optimized**: Minimal impact on page load and rendering
+- **Automatic Detection**: Identifies images missing proper alt text
+- **AI-Powered Generation**: Creates contextually relevant, SEO-friendly alt text
+- **Smart Caching**: Stores generated alt text to reduce API calls
+- **SPA Support**: Works with Single-Page Applications and dynamic content
+- **Robust Matching**: Uses advanced fingerprinting to reliably match images
+- **Performance Optimized**: Minimal impact on page load and rendering
 
 ## How It Works
 
@@ -127,42 +127,6 @@ The SEO Alt Injector works in all modern browsers:
 - Firefox 55+
 - Safari 11+
 - Edge 16+
-
-## Development
-
-### Prerequisites
-
-- Node.js 14+
-- npm or yarn
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/seo-alt-injector.git
-
-# Install dependencies
-cd seo-alt-injector
-npm install
-
-# Build the project
-npm run build
-```
-
-### Testing
-
-```bash
-# Run tests
-npm test
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
