@@ -37,7 +37,7 @@ The solution consists of three components:
 
 ### Basic Setup
 
-Add the following script tag to your website's `<head>` section:
+Add the following script tag just above your website's `</body>` section:
 
 ```html
 <script src="https://your-cdn-or-server.com/seo-alt-injector.js" defer></script>
