@@ -154,7 +154,7 @@ async function processImages() {
   if (imagesToGenerate.length > 0) {
     console.log(\"✏️ Generating new alts for:\", imagesToGenerate.length);
     try {
-      const genResponse = await fetch(\"add_cloudflare_url_to_seo_alt_agent_here", {
+      const genResponse = await fetch(\"add_cloudflare_worker_url_to_seo_alt_agent_here", {
         method: \"POST\",
         headers: {
           \"Content-Type\": \"application/json\"
